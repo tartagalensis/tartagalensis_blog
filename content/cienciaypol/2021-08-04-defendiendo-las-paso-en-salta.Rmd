@@ -1,7 +1,7 @@
 ---
 title: Defendiendo las PASO en Salta
-author: Franco Galeano, Germán Epelbaum y Bruno Ferronato
-date: '2021-08-04'
+author: Franco Galeano
+date: '2020-08-04'
 slug: defendiendo-las-paso-en-salta
 categories:
   - CienciaPolitica
