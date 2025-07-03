@@ -16,7 +16,7 @@ Soy Franco Galeano, a.k.a. Tartagalensis. Soy politólogo en camino a politólog
 
 Nací en Tartagal allá por 1996, coincidiendo en tiempo y espacio con la *célebre* frase de un ex-presidente argentino: "se va a licitar un sistema de vuelos espaciales ...". Si no sabés de que estoy hablando mirá este [video](https://www.youtube.com/watch?v=drVcNBfxV38) por favor. 
 
-Además de la política y los datos me apasionan la historia, el rugby, el fútbol, los viajes (los espaciales aún no los conozco) y la cerveza.
+Además de la política y los datos me apasionan la historia, el rugby, el fútbol, los viajes (los espaciales aún no los conozco) y el vino.
 
 La idea de crear esta página es tener un espacio donde volcar producciones de código (y practicar Python, R, etc.), realizar algunos análisis y dar opiniones. Este blog resume mis gustos y mis pasiones, traté de agrupar las entradas en tres grandes temas: 
 
