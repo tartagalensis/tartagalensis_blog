@@ -8,7 +8,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
-
+[[menu.main]]
+    name = "Random"
+    url = "/random/"
 [[menu.main]]
     name = "Ciencia y política"
     url = "/cienciaypol/"
